@@ -1,4 +1,4 @@
-/** 제작자 : 와우 */
+/** 제작자 : Ian6974 */
 /** 핑퐁 소스 */
 
 function response(room, msg, sender, isGroupChat, replier, imageDB, packageName) {
