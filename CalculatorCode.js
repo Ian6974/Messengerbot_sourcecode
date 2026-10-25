@@ -1,5 +1,5 @@
 /**
- * @author 와우
+ * @author Ian6974
  * @description API2 방식의 공학용 계산기 (v0.7.40+ GraalJS 전용)
  */
 
