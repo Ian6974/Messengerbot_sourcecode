@@ -1,5 +1,5 @@
 /**
- * @author 와우
+ * @author Ian6974
  * @description 채팅 로그 시스템 (v1.2)
  * @environment MessengerBotR / v0.7.40+ GraalJS (API2)
  */
