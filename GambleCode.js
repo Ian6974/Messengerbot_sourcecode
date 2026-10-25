@@ -1,13 +1,13 @@
 /**
- * @author 와우
- * @description 심플 도박 시스템 (v1.0)
+ * @author Ian6974
+ * @description 심플 오락 시스템 (v1.0)
  * @environment MessengerBotR / v0.7.40+ GraalJS (API2)
  */
 
 const bot = BotManager.getCurrentBot();
 
 /**
- * ⚙️ 설정값
+ * 세팅값
  */
 const CONFIG = {
     DB_PATH: "gamble_storage.json",
