@@ -1,5 +1,5 @@
 /**
- * @author 와우
+ * @author Ian6974
  * @description API2 방식 낚시 게임 (v0.7.40+ GraalJS)
  */
 
